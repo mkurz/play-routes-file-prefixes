@@ -1,0 +1,3 @@
+GET           /                 controllers.HomeController.index()
+
+->            /                 com.foo.bar.service.Routes
